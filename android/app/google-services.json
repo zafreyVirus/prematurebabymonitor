@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257214914932",
+    "project_id": "premature-baby-monitoring",
+    "storage_bucket": "premature-baby-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257214914932:android:7fc8dc48c9f97fdea58c21",
+        "android_client_info": {
+          "package_name": "com.example.baby_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0YcqFO8Pt61pJYSDn5_tVjDDA8iL6N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
